@@ -13,6 +13,8 @@ Explore my **[Product Owner portfolio](https://github.com/SergeiScheglov/portfol
 - **Product discovery and delivery** — requirements, prioritization, stakeholder alignment, and delivery trade-offs.
 - **Technical case studies** — conceptual designs that explain not just *what* I propose, but *why*.
 
+**Featured case study:** [Travel Supplier API Integration (Viator Partner API)](https://github.com/SergeiScheglov/portfolio/blob/main/Travel_Supplier_API_Integration_PO_Case_Study.pdf) — a conceptual design covering supplier data ingestion, booking flow, and product trade-offs.
+
 ## Areas of expertise
 
 `Product Ownership` · `E-commerce` · `Travel Technology` · `API Integrations` · `Business Processes` · `Stakeholder Management`
